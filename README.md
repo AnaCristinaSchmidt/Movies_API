@@ -1,12 +1,10 @@
+Sprint 3 – Movies_API
+In this one-week sprint, the challenge was to individually develop the backend of a web application, using HTTP communication with data in JSON format.
 
-## 🛠️ Sprint 3 – Backend com CRUD em API REST
+The application implements the four basic CRUD operations (Create, Read, Update, Delete), through HTTP methods:
 
-Nesta sprint de **uma semana**, o desafio foi desenvolver, individualmente, o **backend de uma aplicação web**, utilizando **comunicação via HTTP** com dados no formato **JSON**.
-
-A aplicação implementa as quatro operações básicas de um **CRUD** (*Create, Read, Update, Delete*), por meio dos métodos HTTP:
-- `POST` – criar novos registros  
-- `GET` – listar ou buscar dados  
-- `PATCH` – atualizar registros parcialmente  
-- `DELETE` – remover registros
-
-Todos os detalhes do projeto, incluindo as **tecnologias utilizadas**, a **forma de implementação** e um **guia de uso da API**, estão documentados no `README.md` do repositório da sprint.
+POST – create new records
+GET – list or search for data
+PATCH – partially update records
+DELETE – remove records
+All project details, including the technologies used, the implementation method and a guide to using the API, are documented in the README.md of the sprint repository.
